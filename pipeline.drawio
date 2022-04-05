@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-05T11:59:35.887Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="jXfHIASpkFUDGzyr1geG" version="17.4.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-05T12:44:54.688Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="OqyKQFtaVHmaBhgGb1dl" version="17.4.0" type="github">
   <diagram id="hcP1Pp9ipcXUoe1VHoGx" name="Page-1">
     <mxGraphModel dx="1471" dy="754" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="1700" math="0" shadow="0">
       <root>
@@ -250,7 +250,7 @@
         <mxCell id="iUtlSqfOHHRnYsuwLynT-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="gaeL85kwDR5vp7jidNib-67" target="iUtlSqfOHHRnYsuwLynT-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="gaeL85kwDR5vp7jidNib-67" value="группы контекстов, цитирующих эго" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+        <mxCell id="gaeL85kwDR5vp7jidNib-67" value="группы эго-контекстов, цитирующих эго" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="960" y="1520" width="80" height="100" as="geometry" />
         </mxCell>
         <mxCell id="gaeL85kwDR5vp7jidNib-70" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="gaeL85kwDR5vp7jidNib-68" edge="1" target="gaeL85kwDR5vp7jidNib-72">
@@ -304,7 +304,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="gaeL85kwDR5vp7jidNib-83" value="эгосеть" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+        <mxCell id="gaeL85kwDR5vp7jidNib-83" value="эго-сеть" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="180" y="1040" width="60" height="80" as="geometry" />
         </mxCell>
         <mxCell id="gaeL85kwDR5vp7jidNib-91" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="gaeL85kwDR5vp7jidNib-88" target="gaeL85kwDR5vp7jidNib-89" edge="1">
@@ -316,7 +316,7 @@
         <mxCell id="iUtlSqfOHHRnYsuwLynT-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="gaeL85kwDR5vp7jidNib-89" target="iUtlSqfOHHRnYsuwLynT-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="gaeL85kwDR5vp7jidNib-89" value="контексты для цитирующих референсов" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+        <mxCell id="gaeL85kwDR5vp7jidNib-89" value="альтер-контексты (контексты для цитирующих референсов)&amp;nbsp;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="310" y="1480" width="100" height="100" as="geometry" />
         </mxCell>
         <mxCell id="iUtlSqfOHHRnYsuwLynT-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="iUtlSqfOHHRnYsuwLynT-37" target="iUtlSqfOHHRnYsuwLynT-2">
@@ -399,7 +399,7 @@
         <mxCell id="iUtlSqfOHHRnYsuwLynT-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="iUtlSqfOHHRnYsuwLynT-37" target="iUtlSqfOHHRnYsuwLynT-36">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="iUtlSqfOHHRnYsuwLynT-37" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="iUtlSqfOHHRnYsuwLynT-37" value="контексты эго-сети" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="620" y="1610" width="60" height="80" as="geometry" />
         </mxCell>
         <mxCell id="iUtlSqfOHHRnYsuwLynT-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.145;exitY=1;exitDx=0;exitDy=-4.35;exitPerimeter=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="iUtlSqfOHHRnYsuwLynT-40" target="iUtlSqfOHHRnYsuwLynT-41">
